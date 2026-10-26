@@ -1,0 +1,5 @@
+# Temporary and generated simulator files
+*.o
+*.vvp
+*.log
+*.tmp

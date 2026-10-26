@@ -1,0 +1,10 @@
+VCD info: dumpfile reports/parking_controller.vcd opened for output.
+-----------------------------------
+Smart Parking Controller Testbench
+-----------------------------------
+-----------------------------------
+Total checks: 206
+Total errors: 0
+RESULT: ALL TESTS PASSED
+-----------------------------------
+simulation/tb_parking_controller.v:150: $finish called at 2070000 (1ps)

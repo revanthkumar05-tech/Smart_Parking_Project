@@ -1,0 +1,19 @@
+Design Name: parking_controller
+Run Directory: /openlane/openlane/smart_parking_vlsi/runs/RUN_2026.10.26_10.51.50
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/openlane/smart_parking_vlsi/runs/RUN_2026.10.26_10.51.50/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/openlane/smart_parking_vlsi/runs/RUN_2026.10.26_10.51.50/logs/signoff/39-parking_controller.lef.lvs.log
+Number of nets: 91                         |Number of nets: 91                         
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/openlane/smart_parking_vlsi/runs/RUN_2026.10.26_10.51.50/logs/signoff/41-arc.log
+Pin violations: 0
+Net violations: 0
